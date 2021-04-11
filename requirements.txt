@@ -1,0 +1,12 @@
+﻿asgiref==3.2.7
+Django==3.0.6
+django-admin-rangefilter==0.6.1
+django-model-utils==4.0.0
+django-mysql==3.8.1
+djangorestframework==3.11.0
+psycopg2-binary==2.8.5
+PyMySQL==0.10.0
+python-dotenv
+pytz==2020.1
+sqlparse==0.3.1
+
